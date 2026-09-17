@@ -80,6 +80,17 @@
 ### 🔗 GitHub Stats:
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theaakashgupta&show_icons=true&theme=tokyonight" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theaakashgupta&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+
+
+
+
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theaakashgupta&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
