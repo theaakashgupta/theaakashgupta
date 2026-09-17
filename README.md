@@ -80,12 +80,20 @@
 ### 🔗 GitHub Stats:
 
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theaakashgupta&show_icons=true&theme=dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theaakashgupta&layout=compact&theme=dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=theaakashgupta&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=theaakashgupta&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=theaakashgupta&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theaakashgupta&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=theaakashgupta&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
 </p>
