@@ -72,9 +72,8 @@
 ### 🔗 LeetCode Profile:
 
 <p align="center">
-  <img src="https://leetcode-stats-two.vercel.app/api?username=Q7vpBn0k5Y" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Q7vpBn0k5Y?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
 </p>
-
 ---
 
 ### 🔗 GitHub Stats:
